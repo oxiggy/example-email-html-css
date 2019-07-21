@@ -1,4 +1,114 @@
 body {
-    background-color: grey;
+    background-color: rgb(35, 39, 40);
     margin: 0 auto;
 }
+table {
+    max-width: 600px;
+    min-width: 320px;
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0 auto;
+    padding: 0;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+}
+td {
+    margin: 0;
+    padding: 0;
+}
+img {
+    outline: none;
+    -ms-interpolation-mode: bicubic;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+a {
+    color: #f7931e;
+}
+
+
+/*               Картинка на слайде
+*/
+
+.table-first-slide-image,
+.table-second-slide-image,
+.table-third-slide-image,
+.table-fourth-slide-image {}
+
+.td-first-slide-image,
+.td-second-slide-image,
+.td-third-slide-image,
+.td-fourth-slide-image {}
+
+.first-slide-image,
+.second-slide-image,
+.third-slide-image,
+.fourth-slide-image {
+    border: 0;
+    display: block !important;
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+}
+
+/*               Текстовый блок
+*/
+
+.table-first-slide-text,
+.table-second-slide-text,
+.table-third-slide-text,
+.table-fourth-slide-text {
+    background-color: #f0edf2;
+}
+
+.td-first-slide-text,
+.td-second-slide-text,
+.td-third-slide-text,
+.td-fourth-slide-text {}
+
+
+.first-slide-text,
+.second-slide-text,
+.third-slide-text,
+.fourth-slide-text {
+    font-family: Arial, Verdana, sans-serif;
+    color: #777777;
+    font-size: 14px;
+    line-height: 24px;
+    mso-line-height-rule: exactly;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-align: left;
+    padding: 18px 50px 24px;
+}
+
+/*               Кнопка на слайде alt=""
+*/
+
+.table-first-slide-button,
+.table-second-slide-button,
+.table-third-slide-button,
+.table-fourth-slide-button {
+    background-color: #f0edf2;
+}
+
+.td-first-slide-button,
+.td-second-slide-button,
+.td-third-slide-button,
+.td-fourth-slide-button {
+    padding-bottom: 30px;
+}
+
+.first-slide-button,
+.second-slide-button,
+.third-slide-button,
+.fourth-slide-button {}
+
+.first-slide-button-image,
+.second-slide-button-image,
+.third-slide-button-image,
+.fourth-slide-button-image {}
