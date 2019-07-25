@@ -112,3 +112,119 @@ a {
 .second-slide-button-image,
 .third-slide-button-image,
 .fourth-slide-button-image {}
+
+
+
+
+/*               Соц. сети
+*/
+
+.table-social-title {
+    background-color: #0f0f0f;
+}
+.td-social-title {
+    padding-top: 20px;
+}
+.social-title-image {}
+
+
+.table-social-text {
+    background-color: #0f0f0f;
+}
+.td-social-text {}
+.social-text {
+    color: #ffffff;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    mso-line-height-rule: exactly;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-align: center;
+    padding: 0px 50px;
+}
+.social-text span {
+    color: #f7931e;
+    font-weight: bold;
+
+}
+
+
+.table-social-buttons {
+    background-color: #0f0f0f;
+    max-width: 600px;
+    min-width: 320px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0 auto;
+    padding: 0;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+
+}
+.td-social-button {
+    margin: 0;
+    padding: 0;
+    width: 81px;
+    height: 81px;
+}
+.social-button {
+}
+.social-image {
+    width: 81px;
+    height: 81px;
+}
+
+.td-social-button-spacer {
+    min-width: 16px;
+    height: 81px;
+}
+.social-image-spacer {
+    width: 16px;
+    height: 81px;
+    margin: auto;
+}
+
+.td-social-button a {
+    padding: 0;
+    margin: 0;
+}
+.td-social-button img {
+    outline: none;
+    -ms-interpolation-mode: bicubic;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.social-button img {
+    outline: none;
+    -ms-interpolation-mode: bicubic;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.social-image {
+    outline: none;
+    -ms-interpolation-mode: bicubic;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/*               Логотип
+*/
+.table-border-logo-slide  {}
+.td-border-logo-slide {}
+.border-image{}
+
+.table-logo-slide {}
+.td-logo-slide {}
+.logo {}
+
+.table-border-2-logo-slide {}
+.td-border-2-logo-slide {}
+.border-2-image {}
