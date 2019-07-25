@@ -221,9 +221,15 @@ a {
 .td-border-logo-slide {}
 .border-image{}
 
-.table-logo-slide {}
+
+
+.table-logo-slide {
+    background-color: #1a1b1c;
+}
 .td-logo-slide {}
 .logo {}
+
+
 
 .table-border-2-logo-slide {}
 .td-border-2-logo-slide {}
