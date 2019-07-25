@@ -234,3 +234,68 @@ a {
 .table-border-2-logo-slide {}
 .td-border-2-logo-slide {}
 .border-2-image {}
+
+
+/*               Футер-Футерок
+*/
+.table-footer {
+}
+.td-footer {
+    background: rgb(35, 39, 40);
+    padding-top: 15px;
+    padding-bottom: 25px;
+    color: #999999;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    mso-line-height-rule: exactly;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+}
+.td-footer a {
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    mso-line-height-rule: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+}
+.td-footer span {
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    mso-line-height-rule: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+}
+
+.table-origin {
+}
+.td-origin {
+    background: rgb(35, 39, 40);
+    padding-top: 15px;
+    padding-bottom: 25px;
+    color: #999999;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    mso-line-height-rule: exactly;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+}
+.table-origin a {
+    text-decoration: none;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    mso-line-height-rule: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+}
